@@ -1,2 +1,3 @@
 # Crypto-sytem
-reposait content code for some  crypto-systems.
+
+reposity content implementation in python codes for some crypto-systems.
